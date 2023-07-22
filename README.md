@@ -25,7 +25,7 @@
 - Looking at the above insights, we can see that customers who start ordering from mid-year 4,5,6,7,8 tend to order stable, and relatively higher than the rest months of the year.
 - Customers who place orders at the beginning of January and February only show stability, nothing special.
 - KPMG's year-to-date retention rate is quite good, all 30% or more (except 1st month at 25.5%).
-- 
+  
 ## IV. Recommendations
 - There should be attractive preferential policies for customers in the first months of the year to increase the order rate (retention) over the months.
 - The Mid-year months have higher retention rates than other months -> need to dive into why (with relevant data, and visualization of other data) to apply to other months of the year.
