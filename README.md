@@ -15,7 +15,7 @@
 - Using Python to analyze data from KPMG transaction dataset to make a cohort to evaluate user engagement from their first transaction.
 ## II. Data Visualization with Python
 - **MoM Retention Rate for Customer Transaction Data**
-- 
+  
 ![image](https://github.com/heilongtian/Cohort-Analysis/assets/126595334/df7fd7e9-e10c-4bb9-ba65-d71ca694fe05)
 
 ## III. Insights
